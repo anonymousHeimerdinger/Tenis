@@ -9,6 +9,8 @@ using Tenis.data.abstractClasses;
 namespace Tenis.controller{
     class GameManager{
         
+        // testing Git to delete
+
         private DataManager dataManager;
         private const int numberPlayersTenis = 2;
         private Boolean isReadyInitGame;
